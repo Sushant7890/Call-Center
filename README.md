@@ -16,7 +16,7 @@ This is a Call Center Performance Dashboard built using Power BI. It provides an
 -What percentage of calls are resolved successfully?                 
 -How many calls are left unanswered, and what impact does it have?              
 
-## Dashoard Interaction 
+## Dashboard Interaction 
 <a href="https://github.com/Sushant7890/Call-Center/blob/main/Call%20Center.pbix">View Dsahboard</a>
 
 ## Process
